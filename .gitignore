@@ -1,2 +1,5 @@
 *.pyc
 doc/tags
+tags
+tags.temp
+tags.lock
